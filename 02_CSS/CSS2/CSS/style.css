@@ -1,0 +1,119 @@
+body{
+    background-color: black;
+}
+div{
+
+    position: absolute;
+}
+div.whitec{
+    color: white;
+    background-color: white;
+}
+#r1{
+    top: 0px;
+    left: 0px;
+    height: 525px;
+    width: 75px;
+}
+#r2{
+    bottom: 75px;
+    width: 75px;
+    left: 0px;
+    height: 70px;
+}
+#r3{
+    bottom: 0px;
+    left: 0px;
+    width: 75px;
+    height: 50px;
+}
+#r4{
+    top: 0px;
+    right: 975px;
+    width: 325px;
+    height: 525px;
+}
+#r5{
+    bottom: 0px;
+    right: 975px;
+    width: 325px;
+    height: 50px;
+}
+#r6{
+    height: 100px;
+    top: 0px;
+    right: 775px;
+    width: 175px;
+}
+#r7{
+    top: 125px;
+    right: 775px;
+    width: 175px;
+    height: 400px;
+}
+#r8{
+    bottom: 75px;
+    right: 775px;
+    width: 175px;
+    height: 70px;
+}
+#r9{
+    bottom: 0px;
+    right: 775px;
+    width: 175px;
+    height: 50px;
+}
+#r10{
+    top: 0px;
+    right: 375px;
+    height: 100px;
+    width: 375px;
+}
+#r11{
+    
+    right: 375px;
+    top: 550px;
+    bottom: 0px;
+    width: 375px;
+}
+#r12{
+    right: 0px;
+    top: 125px;
+    height: 400px;
+    width: 350px;
+}
+#r13{
+    
+    right: 0px;
+    top: 550px;
+    bottom: 0px;
+    width: 350px;
+}
+
+.top-container{
+    background-color: darkred;
+    color: white;
+    height: 400px;
+    width: 375px;
+    top: 125px;
+    right: 375px;
+}
+
+.middle-container{
+    background-color: 
+    #142DAB
+    ;
+    color: white;
+    height: 70px;
+    width: 325px;
+    bottom: 75px;
+    right: 975px
+}
+
+.low-container{
+    background-color: darkorange;
+    width: 350px;
+    height: 100px;
+    top: 0px;
+    right: 0px;
+}
