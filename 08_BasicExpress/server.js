@@ -16,5 +16,5 @@ app.post('/calc-bmi', (req, res) => {
   const Weight = parseFloat(req.body.Weight);
   const Height = parseFloat(req.body.Height);
   const BMI = (Weight / (Height ** 2)) * 10000;
-  res.send(`Your BMI is: ${bmi}`);
+  res.send(`Your BMI is: ${BMI}`);
 });
